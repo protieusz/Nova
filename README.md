@@ -2,7 +2,7 @@
 Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main) variant that has a 25mm trackball sensor integrated into a 5mm switch plate and optional 3x EVQ roller encoders. Powered by integrated RP2040.
 
 # Description
-Nova, a Buran variant that is heavily modified on the PCB side of components placement and case and switch plate mod to accomodate for the 25mm trackball hole.  Blessing for mods have been granted by the original designer of Buran, ScatterDrifter and thick switch plate by Plant. Case mod was done on Ottimo's Bofa case, https://github.com/subottimale/Buran-Bofa-case/tree/main.  The follow mods were done to the case, switch plate and pcb:
+Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main) variant that is heavily modified on the PCB side of components placement and case and switch plate mod to accomodate for the 25mm trackball hole.  Blessing for mods have been granted by the original designer of Buran, ScatterDrifter and thick switch plate by Plant. Case mod was done on Ottimo's Bofa case, https://github.com/subottimale/Buran-Bofa-case/tree/main.  The follow mods were done to the case, switch plate and pcb:
 
 -PCB RP2040 components were place, routed from scratch and also to accomodate the PMW3360 sensor using EasyEDA.
 
