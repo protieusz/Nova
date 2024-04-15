@@ -6,6 +6,8 @@ Nova, a Buran variant that is heavily modified on the PCB side of components pla
 
 -PCB RP2040 components were place, routed from scratch and also to accomodate the PMW3360 sensor using EasyEDA.
 
+-Added EVQ roller encoders option x3 to the middle top 3 key switches. EC11 encoder footprints have been removed.
+
 -Switch plate was modded with a larger hole in the place of the former encoder location to accomodate for the integrated 25mm trackball holder module.
 
 -Top case of the Bofa was modified with a larger hole in place of the former encoder placement.
