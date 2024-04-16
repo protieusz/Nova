@@ -14,6 +14,8 @@ Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main)
 
 -QMK code was borrowed from [Ploopy Adept](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ploopyco/madromys) and modified by adding the Nova's key matrix layout into the code. No changes were made to the trackball code.
 
+-Added 38 individual switch RGBs.
+
 #Render & Test Fitting Pics:
 
 ![IMG_1874](https://github.com/protieusz/Nova/assets/118025702/269dbd43-a6f4-431c-bc50-b58c464a1276)
@@ -30,6 +32,9 @@ Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main)
 
 PCB Renders:
 
+![Screenshot 2024-04-16 at 9 46 38 AM](https://github.com/protieusz/Nova/assets/118025702/9d5e5115-1827-420e-88af-84417446131d)
+![Screenshot 2024-04-16 at 9 46 20 AM](https://github.com/protieusz/Nova/assets/118025702/3210c499-7e13-4b93-9d12-e1a940a54742)
+![Screenshot 2024-04-16 at 9 48 29 AM](https://github.com/protieusz/Nova/assets/118025702/b6557e02-adee-4c21-b635-8b92eed11630)
 ![Screenshot 2024-04-12 at 8 30 23 AM](https://github.com/protieusz/Nova/assets/118025702/cf590bf3-adee-4944-a61a-2534cd781ce8)
 ![Screenshot 2024-04-12 at 8 51 13 AM](https://github.com/protieusz/Nova/assets/118025702/f6181810-a6e6-4c41-b0b7-2919d5b57c16)
 ![Screenshot 2024-04-12 at 8 51 27 AM](https://github.com/protieusz/Nova/assets/118025702/5a24fe29-4c96-4c3f-9973-37281b95ac6a)
