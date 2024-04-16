@@ -34,7 +34,6 @@
         "mousekey": true,
         "encoder": true,
         "nkro": true,
-        //"pointing_device": true,
         "rgblight": false
     },
     
