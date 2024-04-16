@@ -35,6 +35,8 @@ PCB Renders:
 ![Screenshot 2024-04-16 at 9 46 38 AM](https://github.com/protieusz/Nova/assets/118025702/9d5e5115-1827-420e-88af-84417446131d)
 ![Screenshot 2024-04-16 at 9 46 20 AM](https://github.com/protieusz/Nova/assets/118025702/3210c499-7e13-4b93-9d12-e1a940a54742)
 ![Screenshot 2024-04-16 at 9 48 29 AM](https://github.com/protieusz/Nova/assets/118025702/b6557e02-adee-4c21-b635-8b92eed11630)
+![Screenshot 2024-04-16 at 10 03 32 AM](https://github.com/protieusz/Nova/assets/118025702/6c0c6578-be72-4eb5-ad70-62251b2727f3)
+![Screenshot 2024-04-16 at 10 03 46 AM](https://github.com/protieusz/Nova/assets/118025702/66e8e325-438a-41b0-a25e-8f1d08415eba)
 ![Screenshot 2024-04-12 at 8 30 23 AM](https://github.com/protieusz/Nova/assets/118025702/cf590bf3-adee-4944-a61a-2534cd781ce8)
 ![Screenshot 2024-04-12 at 8 51 13 AM](https://github.com/protieusz/Nova/assets/118025702/f6181810-a6e6-4c41-b0b7-2919d5b57c16)
 ![Screenshot 2024-04-12 at 8 51 27 AM](https://github.com/protieusz/Nova/assets/118025702/5a24fe29-4c96-4c3f-9973-37281b95ac6a)
