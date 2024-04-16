@@ -12,7 +12,7 @@ Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main)
 
 -Top case of the Bofa was modified with a larger hole in place of the former encoder placement.
 
--QMK code was borrowed from bally by aki27 and modified by add the Nova's key matrix layout into the code. No changes were made to the trackball code.
+-QMK code was borrowed from [Ploopy Adept](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ploopyco/madromys) and modified by adding the Nova's key matrix layout into the code. No changes were made to the trackball code.
 
 #Render & Test Fitting Pics:
 
