@@ -33,8 +33,8 @@
         "extrakey": true,
         "mousekey": true,
         "encoder": true,
-        "nkro": true,
-        "rgblight": false
+        //"pointing_device": true,
+        "rgblight": true
     },
     
     "layouts": {

@@ -1,7 +1,4 @@
 /* Copyright 2024 ProtieusKeebs
- * Copyright 2023 Colin Lam (Ploopy Corporation)
- * Copyright 2020 Christopher Courtney, aka Drashna Jael're  (@drashna) <drashna@live.com>
- * Copyright 2019 Sunjun Kim
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -36,15 +33,52 @@
 typedef union {
     uint32_t raw;
     struct {
-        uint8_t dpi_config;
+        uint8_t cpi_idx;
+        uint8_t scrl_div;
+        uint8_t rotation_angle;
+        int8_t scrl_inv;
+        bool scrl_mode;
+        report_mouse_t last_mouse;
     };
-} keyboard_config_t;
-_Static_assert(sizeof(keyboard_config_t) == sizeof(uint32_t), "keyboard_config_t size mismatch compared to EEPROM area");
+} cocot_config_t;
 
-extern keyboard_config_t keyboard_config;
-extern uint16_t          dpi_array[];
+extern cocot_config_t cocot_config;
 
-enum ploopy_keycodes {
-    DPI_CONFIG = QK_KB_0,
-    DRAG_SCROLL,
+enum cocot_keycodes {
+
+    COCOT_SAFE_RANGE = SAFE_RANGE,
+    CPI_SW,
+    SCRL_SW,
+    ROT_R15,
+    ROT_L15,
+    SCRL_MO,
+    SCRL_TO,
+    SCRL_IN,
 };
+
+#define CPI_SW QK_KB_0
+#define SCRL_SW QK_KB_1
+#define ROT_R15 QK_KB_2
+#define ROT_L15 QK_KB_3
+#define SCRL_MO QK_KB_4
+#define SCRL_TO QK_KB_5
+#define SCRL_IN QK_KB_6
+
+
+
+bool encoder_update_user(uint8_t index, bool clockwise);
+bool encoder_update_kb(uint8_t index, bool clockwise);
+
+bool cocot_get_scroll_mode(void);
+void cocot_set_scroll_mode(bool mode);
+
+
+void enable_click_layer(void);
+void disable_click_layer(void);
+int16_t my_abs(int16_t num);
+int16_t mmouse_move_y_sign(int16_t num);
+bool is_clickable_mode(void);
+
+
+void render_logo(void);
+void oled_write_layer_state(void);
