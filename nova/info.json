@@ -33,7 +33,6 @@
         "extrakey": true,
         "mousekey": true,
         "encoder": true,
-        //"pointing_device": true,
         "rgblight": true
     },
     
