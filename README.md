@@ -16,7 +16,7 @@ Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main)
 
 -Top case of the Bofa was modified with a larger hole in place of the former encoder placement.
 
--QMK code was borrowed from [Ploopy Adept](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ploopyco/madromys) and modified by adding the Nova's key matrix layout into the code. No changes were made to the trackball code.
+- ~~QMK code was borrowed from [Ploopy Adept](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ploopyco/madromys) and modified by adding the Nova's key matrix layout into the code. No changes were made to the trackball code.~~ I have decided to use aki27's [bally](https://github.com/aki27kbd/vial-qmk/tree/vial/keyboards/aki27/bally)'s code instead since the Ploopy code I ran into issues and too tired to get it working.
 
 -Added 38 individual switch RGBs.
 
