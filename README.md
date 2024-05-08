@@ -1,6 +1,10 @@
 # Nova
 Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main) variant that has a 25mm trackball sensor integrated into a 5mm switch plate and optional 3x EVQ roller encoders. Powered by integrated RP2040.
 
+# Sponsorship
+This Nova pcb/pcba is made possible by: ![PCBWay](https://github.com/protieusz/Nova/assets/118025702/c1806de4-9571-4a6e-a0ec-50ecb846ec0c)
+Thank you PCBWay for your quality pcba/pcb service. For all you pcb/pcba services, you can always rely on PCBWay for your pcb prototyping needs.
+
 # Description
 Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main) variant that is heavily modified on the PCB side of components placement and case and switch plate mod to accomodate for the 25mm trackball hole.  Blessing for mods have been granted by the original designer of Buran, ScatterDrifter and thick switch plate by Plant. Case mod was done on Ottimo's Bofa case, https://github.com/subottimale/Buran-Bofa-case/tree/main.  The follow mods were done to the case, switch plate and pcb:
 
@@ -16,7 +20,7 @@ Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main)
 
 -Added 38 individual switch RGBs.
 
-#Full Production Pics:
+Full Production Pics:
 
 ![D4AFC096-B288-4E2A-9FCC-9BD741920737](https://github.com/protieusz/Nova/assets/118025702/15443f6e-ad1e-4253-9ee1-9126bc0c9746)
 ![827E48CC-210B-4E32-AA6E-871CCC9DF78D](https://github.com/protieusz/Nova/assets/118025702/9c63eb48-3dde-4382-92ed-27b1116da256)
@@ -34,7 +38,7 @@ Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main)
 ![IMG_2028](https://github.com/protieusz/Nova/assets/118025702/97c24a53-7a61-4031-a399-ce10a3f2c1a4)
 ![IMG_2027](https://github.com/protieusz/Nova/assets/118025702/068f6474-da43-4d2b-965c-e9127760a470)
 
-#Render & Test Fitting Pics:
+Render & Test Fitting Pics:
 
 ![IMG_1874](https://github.com/protieusz/Nova/assets/118025702/269dbd43-a6f4-431c-bc50-b58c464a1276)
 ![IMG_1875](https://github.com/protieusz/Nova/assets/118025702/d840ba80-04c9-4d51-8522-df98a514fcf2)
