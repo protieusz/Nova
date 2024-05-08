@@ -12,7 +12,7 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */
+ * Core code borrowed from aki27's bally and the only change to this file is the matrix that is being changed for Nova matrix./
 
 #pragma once
 
