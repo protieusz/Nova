@@ -12,8 +12,9 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */
-
+ *
+ * Core code borrowed from aki27 from bally, no code change has been made/
+    
 #include "quantum.h"
 #include <math.h>
 #include "nova.h"
