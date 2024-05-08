@@ -16,6 +16,24 @@ Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main)
 
 -Added 38 individual switch RGBs.
 
+#Full Production Pics:
+
+![D4AFC096-B288-4E2A-9FCC-9BD741920737](https://github.com/protieusz/Nova/assets/118025702/15443f6e-ad1e-4253-9ee1-9126bc0c9746)
+![827E48CC-210B-4E32-AA6E-871CCC9DF78D](https://github.com/protieusz/Nova/assets/118025702/9c63eb48-3dde-4382-92ed-27b1116da256)
+![7421A98E-BB6E-4C39-A3ED-7C58B0D0783C](https://github.com/protieusz/Nova/assets/118025702/85aac6d9-e79e-4cec-a313-35ae22107dd7)
+![20E94940-8326-4AEA-AF0D-43A8B87361EF](https://github.com/protieusz/Nova/assets/118025702/3c5c2977-fe9d-449c-8de7-942b94233c9e)
+![IMG_2039](https://github.com/protieusz/Nova/assets/118025702/03234a4a-6868-4225-9c27-014b70fe0cc5)
+![IMG_2036](https://github.com/protieusz/Nova/assets/118025702/472eb5b6-f5ef-4f25-bdb9-fc298efe179e)
+![IMG_2035](https://github.com/protieusz/Nova/assets/118025702/a617276d-920c-448d-8943-a0bf2753e255)
+![IMG_2034](https://github.com/protieusz/Nova/assets/118025702/fce383c5-e284-4144-9dbd-118666bf54f2)
+![IMG_2033](https://github.com/protieusz/Nova/assets/118025702/808687b4-2cc0-40d4-a1d9-fc9cd07b0a70)
+![IMG_2032](https://github.com/protieusz/Nova/assets/118025702/1f6e4a31-1f7c-4f39-86c9-89c7c62107af)
+![IMG_2031](https://github.com/protieusz/Nova/assets/118025702/3e7adf5c-c9a6-442c-9090-f74659e60a5b)
+![IMG_2030](https://github.com/protieusz/Nova/assets/118025702/db50d2a8-01c1-4ba2-9482-fbe22b13dc74)
+![IMG_2029](https://github.com/protieusz/Nova/assets/118025702/1a6e225e-bd95-4f74-ad32-bd2a7ac57241)
+![IMG_2028](https://github.com/protieusz/Nova/assets/118025702/97c24a53-7a61-4031-a399-ce10a3f2c1a4)
+![IMG_2027](https://github.com/protieusz/Nova/assets/118025702/068f6474-da43-4d2b-965c-e9127760a470)
+
 #Render & Test Fitting Pics:
 
 ![IMG_1874](https://github.com/protieusz/Nova/assets/118025702/269dbd43-a6f4-431c-bc50-b58c464a1276)
