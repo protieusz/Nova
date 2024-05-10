@@ -93,7 +93,7 @@ PMW3360 sensor goes at the back of the PCB as per picture below
 
 ![IMG_2074](https://github.com/protieusz/Nova/assets/118025702/52b9fa08-c84f-446d-87bb-10fc7c3659c5)
 
-Zoomed in on the sensor. Make sure the washed out greyish yellowish dot aka PIN 1 aligns with PIN 1 silkscreen labelled on the pcb. The number example AXX should be the orientaton of the picture.  On the right side, sideways should be the sensor model number. Make very sure of the orientation. No support will be given on how to de-solder and solder.
+Zoomed in on the sensor. Make sure the washed out greyish yellowish dot aka PIN 1 aligns with PIN 1 silkscreen labelled on the pcb. The number example AXX should be the orientaton of the picture.  On the right side, sideways should be the sensor model number. Make very sure of the orientation. No support will be given on how to de-solder and solder. Apply a yellow tape or painters tape on the sensor to secure it so that it is flush on the pcb and when you solder the pins, it will not move.
 
 ![IMG_2075](https://github.com/protieusz/Nova/assets/118025702/5b9e9bae-cf95-4548-af92-623fdfb6b5db)
 
@@ -101,5 +101,8 @@ Zoomed Front Side PCB where the sensor lens will be installed
 
 ![IMG_2076](https://github.com/protieusz/Nova/assets/118025702/828b5fe8-99b1-4af7-8f60-b5ddebf67f42)
 ![IMG_2077](https://github.com/protieusz/Nova/assets/118025702/fb5014bf-9640-4921-92f2-19a303daf54f)
+
+Remember to remove the yellow tape off the sensor after you solder it
+
 ![IMG_2078](https://github.com/protieusz/Nova/assets/118025702/0b7c4cfc-31b2-45eb-9584-404f83f6322f)
 ![IMG_2079](https://github.com/protieusz/Nova/assets/118025702/637d322f-dc5c-4a91-ac85-ded5743e9283)
