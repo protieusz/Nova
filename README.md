@@ -72,16 +72,17 @@ Needed Parts To Complete The Nova:
 
 | Parts         | Link |
 | ------------- | ------------- |
-| 38-41 x Switches   | Content Cell  |
-| 3 x EVQ Rollers Encoders (Optional)  | Content Cell  |
+| 38-41 x Switches   |   |
+| 3 x EVQ Rollers Encoders (Optional)  | https://www.aliexpress.com/item/32990950196.html?spm=a2g0o.order_list.order_list_main.70.79251802LG9UyV  |
 | 1 x Nova PCBA | XXXXX |
-| 1 x PMW3360 Sensor |   |
+| 1 x PMW3360 Sensor | https://www.aliexpress.com/item/1005005355003386.html?spm=a2g0o.order_list.order_list_main.50.79251802LG9UyV  |
 | 38-41 x Keycaps |  |
-| 38 x RGB LEDs |  |
+| 38 x RGB LEDs SK6812 MINI-E 12MA| https://www.aliexpress.com/item/1005003636607308.html?spm=a2g0o.order_list.order_list_main.65.79251802LG9UyV |
 | Modified Bofu Top Case |  |
 | Un-modifed Bofu Bottom Case |  |
-| USB C Magnetic Connector (Recommended) | |
+| USB C Magnetic Connector (Recommended) | https://www.aliexpress.com/item/1005003156990314.html?spm=a2g0o.order_list.order_list_main.121.79251802LG9UyV |
 | 10 x M2 Screws (Bottom Case) |  |
 | M2 Screws (Switch Plate) | |
+| 1 x 25mm POM, Perixx, Natural Gemstone, Billyard balls (Experiment yourself) | |
 
 
