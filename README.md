@@ -74,7 +74,7 @@ Needed Parts To Complete The Nova:
 | ------------- | ------------- |
 | 38-41 x Switches   |   |
 | 3 x EVQ Rollers Encoders (Optional)  | https://www.aliexpress.com/item/32990950196.html?spm=a2g0o.order_list.order_list_main.70.79251802LG9UyV  |
-| 1 x Nova PCBA | XXXXX |
+| 1 x Nova PCBA |  |
 | 1 x PMW3360 Sensor | https://www.aliexpress.com/item/1005005355003386.html?spm=a2g0o.order_list.order_list_main.50.79251802LG9UyV  |
 | 38-41 x Keycaps |  |
 | 38 x RGB LEDs SK6812 MINI-E 12MA| https://www.aliexpress.com/item/1005003636607308.html?spm=a2g0o.order_list.order_list_main.65.79251802LG9UyV |
