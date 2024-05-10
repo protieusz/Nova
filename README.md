@@ -72,7 +72,16 @@ Needed Parts To Complete The Nova:
 
 | Parts         | Link |
 | ------------- | ------------- |
-| 41 Switches   | Content Cell  |
-| 3X EVQ Rollers Encoders (Optional)  | Content Cell  |
-| 1X Nova PCBA | XXXXX |
+| 38-41 x Switches   | Content Cell  |
+| 3 x EVQ Rollers Encoders (Optional)  | Content Cell  |
+| 1 x Nova PCBA | XXXXX |
+| 1 x PMW3360 Sensor |   |
+| 38-41 x Keycaps |  |
+| 38 x RGB LEDs |  |
+| Modified Bofu Top Case |  |
+| Un-modifed Bofu Bottom Case |  |
+| USB C Magnetic Connector (Recommended) | |
+| 10 x M2 Screws (Bottom Case) |  |
+| M2 Screws (Switch Plate) | |
+
 
