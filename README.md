@@ -65,3 +65,10 @@ PCB Renders:
 ![Screenshot 2024-04-12 at 8 51 39 AM](https://github.com/protieusz/Nova/assets/118025702/f8da4e9b-1c0e-4308-831b-ccedc9ee1994)
 ![Screenshot 2024-04-11 at 12 16 26 PM](https://github.com/protieusz/Nova/assets/118025702/5a832483-b8dd-4ea7-817d-ba2faa055792)
 ![Screenshot 2024-04-12 at 8 51 52 AM](https://github.com/protieusz/Nova/assets/118025702/d9c3fb40-e4ad-4ae8-b4a0-1251997c4817)
+
+# Build Guide
+
+| Parts         | Link |
+| ------------- | ------------- |
+| 41 Switches   | Content Cell  |
+| 3X EVQ Rollers Encoders (Optional)  | Content Cell  |
