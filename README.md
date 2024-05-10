@@ -68,7 +68,11 @@ PCB Renders:
 
 # Build Guide
 
+Needed Parts To Complete The Nova:
+
 | Parts         | Link |
 | ------------- | ------------- |
 | 41 Switches   | Content Cell  |
 | 3X EVQ Rollers Encoders (Optional)  | Content Cell  |
+| 1X Nova PCBA | XXXXX |
+
