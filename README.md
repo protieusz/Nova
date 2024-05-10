@@ -87,6 +87,7 @@ Needed Parts To Complete The Nova:
 | 10 x M2 Screws (Bottom Case) |  |
 | M2 Screws (Switch Plate) | |
 | 1 x 25mm POM, Perixx, Natural Gemstone, Billyard balls (Experiment yourself) | |
+| Hot Inserts 3.2mm Diameter 3-4mm Length | |
 
 
 Soldering the PMW3360 Sensor:
