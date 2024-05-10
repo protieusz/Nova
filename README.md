@@ -85,6 +85,7 @@ Needed Parts To Complete The Nova:
 | M2 Screws (Switch Plate) | |
 | 1 x 25mm POM, Perixx, Natural Gemstone, Billyard balls (Experiment yourself) | |
 
+
 Soldering the PMW3360 Sensor:
 
 Refer to the picture below on the orientation of the sensor and be wary of PIN 1. Do not mess up or else it will be hell to de-solder. Study the picture carefully before you solder or forever be sorry.
