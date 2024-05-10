@@ -5,6 +5,9 @@ Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main)
 This Nova pcb/pcba is made possible by: ![PCBWay](https://github.com/protieusz/Nova/assets/118025702/c1806de4-9571-4a6e-a0ec-50ecb846ec0c)
 Thank you PCBWay for your quality pcba/pcb service. For all you pcb/pcba services, you can always rely on PCBWay for your pcb prototyping needs.
 
+# Featured On KBD News
+https://kbd.news/Buran-Ortho-2371.html
+
 # Description
 Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main) variant that is heavily modified on the PCB side of components placement and case and switch plate mod to accomodate for the 25mm trackball hole.  Blessing for mods have been granted by the original designer of Buran, ScatterDrifter and thick switch plate by Plant. Case mod was done on Ottimo's Bofa case, https://github.com/subottimale/Buran-Bofa-case/tree/main.  The follow mods were done to the case, switch plate and pcb:
 
