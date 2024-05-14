@@ -89,7 +89,7 @@ Needed Parts To Complete The Nova:
 | 10 x M2 Screws (Bottom Case) |  |
 | M2 Screws (Switch Plate) | |
 | 1 x 25mm POM, Perixx, Natural Gemstone, Billyard balls (Experiment yourself) | [POM](https://www.aliexpress.com/item/1005004594689539.html?spm=a2g0o.order_list.order_list_main.20.5b6b1802vG6F1R) |
-|                                                                              | Mineral Stone |
+|                                                                              | [Mineral Stone](https://www.aliexpress.com/item/1005005241158203.html?spm=a2g0o.order_list.order_list_main.36.5b6b1802vG6F1R) |
 | | Billyard balls |
 | Hot Inserts 3.2mm Diameter 3-4mm Length |https://www.aliexpress.com/item/1005005220632314.html?spm=a2g0o.order_list.order_list_main.327.1da21802wQGF0Y |
 
