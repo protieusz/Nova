@@ -90,7 +90,7 @@ Needed Parts To Complete The Nova:
 | M2 Screws (Switch Plate) | |
 | 1 x 25mm POM, Perixx, Natural Gemstone, Billyard balls (Experiment yourself) | [POM](https://www.aliexpress.com/item/1005004594689539.html?spm=a2g0o.order_list.order_list_main.20.5b6b1802vG6F1R) |
 |                                                                              | [Mineral Stone](https://www.aliexpress.com/item/1005005241158203.html?spm=a2g0o.order_list.order_list_main.36.5b6b1802vG6F1R) |
-| | Billyard balls |
+| | [Billyard balls](https://www.aliexpress.com/item/1005005508968367.html?spm=a2g0o.order_list.order_list_main.81.5b6b1802vG6F1R) |
 | Hot Inserts 3.2mm Diameter 3-4mm Length |https://www.aliexpress.com/item/1005005220632314.html?spm=a2g0o.order_list.order_list_main.327.1da21802wQGF0Y |
 
 # NOTE: Before you solder anything, take the pcb out of the mailing box and plug into your computer to do a tweezer switch test to make sure all the key switches are working. It should all work since I pre-flashed the firmware myself and tested them before I ship out. Do not solder other stuff before you do the key testing first. You have been warned.
