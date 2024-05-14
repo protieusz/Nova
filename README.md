@@ -91,8 +91,9 @@ Needed Parts To Complete The Nova:
 | 1 x 25mm POM, Perixx, Natural Gemstone, Billyard balls (Experiment yourself) | |
 | Hot Inserts 3.2mm Diameter 3-4mm Length |https://www.aliexpress.com/item/1005005220632314.html?spm=a2g0o.order_list.order_list_main.327.1da21802wQGF0Y |
 
+# NOTE: Before you solder anything, take the pcb out of the mailing box and plug into your computer to do a tweezer switch test to make sure all the key switches are working. It should all work since I pre-flashed the firmware myself and tested them before I ship out. Do not solder other stuff before you do the key testing first. You have been warned.
 
-Soldering the PMW3360 Sensor:
+1. Soldering the PMW3360 Sensor:
 
 Refer to the picture below on the orientation of the sensor and be wary of PIN 1. Do not mess up or else it will be hell to de-solder. Study the picture carefully before you solder or forever be sorry.
 
@@ -113,3 +114,28 @@ Remember to remove the yellow tape off the sensor after you solder it
 
 ![IMG_2078](https://github.com/protieusz/Nova/assets/118025702/0b7c4cfc-31b2-45eb-9584-404f83f6322f)
 ![IMG_2079](https://github.com/protieusz/Nova/assets/118025702/637d322f-dc5c-4a91-ac85-ded5743e9283)
+
+2. After you soldered the PMW33660 sensor, test fit the NOVA pcb to the printed switch plate with 4 switches install on the 4 corners of the switch plate & the modifed Bofa top case friction fit with the switch plate. The reason is to test out your 25mm of whatever material ball you have with the top cover case ball holder to see if it works. Plug in the USB C of the PCB to test out duh. Put the 25mm ball on the top of the holder and go nuts on it. Make sure the cursor on your monitor moves smoothly. If it doesn't change to a different material balls. FYI due to the natural of tolerant the the 3D printer prints the PLA or Nylon, you will get different smoothness of the ball rolling results. I usually have the following material balls on hand with me: POM ball, Perixx 25mm ball, Mineral/stone ball & billyard balls, other balls that I have not mentioned. You can also put the lens of the PMW3360 sensor up towards the top side of the pcb. It will make the lens a tiny little bit closer to the bottom of the ball. It helps a little bit but not much. The main key is to find a compatible ball that works with your 3D printed case. Now is a good time to hot insert the M2 brass into your PLA printed case so that they can hold onto your M2 screws.
+
+Fit your pcb top side towards the switch with the top case that is already installed as per picture for testing the trackball sensor with a 25mm ball. Picture is pretty self explainatory.
+
+![IMG_1890](https://github.com/protieusz/Nova/assets/118025702/96b67b88-e1b9-46ff-8e01-ad9492c72f24)
+![IMG_1986](https://github.com/protieusz/Nova/assets/118025702/5b2e05a3-98a5-45d3-8d1e-6d3fc2d4b73e)
+![IMG_1988](https://github.com/protieusz/Nova/assets/118025702/8b8ab5f7-0a3b-40d6-834d-ef181d4f03fd)
+![IMG_2035](https://github.com/protieusz/Nova/assets/118025702/e4ea1066-9403-439b-908f-4dddbe148354)
+
+3. Once your PMW3360 sensor is working flawlessly, you can solder the 3 EVQ roller encoder which are "OPTIONAL".  Do not solder if you are not confident. No support will be given on how to solder and de-solder.  Before you solder the encoders, you will need to file or melt the square holes on the switch plate, a little wider since there were dimension errors when I design it. Do whatever it takes so that the encoder fits into the square hole. I have also included a step file I think which you can modify to make the hole wider.
+
+4. Once the switch encoder holes are widen, then you need to flush clip the "leg" of the EVQ encoder so that when solder onto the pcb, the encoder will sit "FLUSH" on the pcb. I repeat, it will have to sit flush or else it will look very "FUGLY" slanted. After you cut the leg carefully with the flush cutter, make sure you even out the flushness with an Xactor knife. Then solder the thru holes of the encoder to the pcb.
+
+5. Once you confirmed everything is working flawlessly, solder on all the switches attached to the switch plate, top case and pcb. DO NOT MILL MAX it, since the tiny gap of the hot swap Mill Max will cause the trackball sensor to not work and then you will cry. You have been warned.
+
+6. Solder The LED RGBs Very Last!!!
+
+The reason why I emphasize this is because if the orientation of the LEDs are solder wrong, the pcb will work at all until you de-solder it/correct the orientation or remove the wrong orientation LEDS before the pcb will start working again. Wrong orientation will create a short. Make very sure of your solder skill level before you solder the RGBs. De-solder the RGBs is another level of hell that you DO NOT want to go through. RGB LEDs are optional and only for asthetics and does not provide any "useful" functionality. No support will be given if you fuck up.
+
+Here is a close up pic of the "notch" of the LED leg that should be solder on the "notch" or the "L" symbol on the pcb. The icon silk mask might not be super clear but you can make an educated guess.  Also please refer to my Left and Right side RGB diagram above. Solder the lowest "Uxx" LED first and then plug in to USB C to see if it lights up. If solder properly it should light super bloody RED in color.  If it doesn't light up, either reflow the solder or you F up your RGB. Best of luck!
+
+![IMG_2095](https://github.com/protieusz/Nova/assets/118025702/c629c294-acdd-44eb-8ff4-9f030c357d5a)
+
+7. Once everything else is working perfectly, Then screw the bottom case to the top case.
