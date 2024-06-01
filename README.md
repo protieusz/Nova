@@ -13,9 +13,9 @@ Nova, a [Buran-Ortho](https://github.com/ScatteredDrifter/Buran-Ortho/tree/main)
 
 -PCB RP2040 components were place, routed from scratch and also to accomodate the PMW3360 sensor using EasyEDA.
 
--Added EVQ roller encoders option x3 to the middle top 3 key switches. EC11 encoder footprints have been removed.
+-Added EVQ roller encoders option x3 to the middle top 3 key switches. EC11 encoder footprints have been removed. Roller encoder, you will have to snip off the plastic bottom so that when you solder it will remain flush to the pcb.
 
--Switch plate was modded with a larger hole in the place of the former encoder location to accomodate for the integrated 25mm trackball holder module.
+-Switch plate was modded with a larger hole in the place of the former encoder location to accomodate for the integrated 25mm trackball holder module. NOTE: The 3x encoder square holes, you will need to modify them to widen the holes since I forgot to adjust those. You will either need to dremel it or melt it wide a bit to accomodate for the holes.
 
 -Top case of the Bofa was modified with a larger hole in place of the former encoder placement.
 
